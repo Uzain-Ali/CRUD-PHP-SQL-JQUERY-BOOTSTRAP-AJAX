@@ -2,28 +2,6 @@
 include 'config.php';
 
 if(isset($_POST['displaySend'])){
-    // $table = "<table>
-    // <thead>
-    //   <tr>
-    //     <th>S.No</th>
-    //     <th>Name</th>
-    //     <th>Email</th>
-    //     <th>Mobile</th>
-    //     <th>Address</th>
-    //     <th>Operations</th>
-    //   </tr>
-    // </thead>";
-    // $table = "<table class="table">
-    // <thead class="thead-dark">
-    //   <tr>
-    //     <th scope="col">S.No</th>
-    //     <th scope="col">Name</th>
-    //     <th scope="col">Email</th>
-    //     <th scope="col">Mobile</th>
-    //     <th scope="col">Address</th>
-    //     <th scope="col">Operations</th>
-    //   </tr>
-    // </thead>";
 
           $table = "<table class=\"table\">
       <thead class=\"thead-dark\">
